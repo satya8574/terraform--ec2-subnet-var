@@ -1,0 +1,7 @@
+subnet_name = "public-subnet"  #"This is the name of subnet"
+key_pair     = "dev" 
+ec2_ami_id   = "ami-05fa00d4c63e32376"
+instance_type = "t2.micro"
+ec2-server-name = "veleoce-dev"
+ec2-server-environment = "development"
+ec2-service-owner   = "Devops Team"
